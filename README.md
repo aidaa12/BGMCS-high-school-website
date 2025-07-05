@@ -66,6 +66,7 @@ Database: Use MongoDB Atlas (free cloud-hosted MongoDB).
 Make sure the registration.html form sends data to the deployed backend's /register endpoint.
 
 🙌 Acknowledgments
+
 Built with guidance from school staff at BGMCS.
 
 UI inspired by modern educational websites.
